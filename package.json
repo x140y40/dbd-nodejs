@@ -1,0 +1,22 @@
+{
+  "name": "dbd-nodejs",
+  "version": "1.0.0",
+  "description": "夺宝岛抢拍器",
+  "main": "dbd本地版.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baqihg/dbd-nodejs.git"
+  },
+  "author": "lzh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baqihg/dbd-nodejs/issues"
+  },
+  "homepage": "https://github.com/baqihg/dbd-nodejs#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  }
+}

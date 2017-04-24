@@ -3,6 +3,7 @@
 
 * 此脚本需要在nodejs环境中运行，安装nodejs教程请观看视频，[windows教程](http://www.imooc.com/video/6691)，[mac教程](http://www.imooc.com/video/6693)，[linux教程](http://www.imooc.com/video/6692)  
 * 成功率取决于您的网速，抢不到请查看使用教程进行合理设置。
+* 个人版不会使用？这里有[在线版](www.hggblog.cn)
 * 此脚本纯粹是面向功能编程，并未考虑其他因素，所以代码风格不喜请勿喷。
 * 如果涉及侵权请告知，将在12小时内删除。
 
